@@ -5,6 +5,8 @@ public class Printer {
         //feature2-2
     }
 
-    private void newPrint(){}
+    private void printBack(){
+        //feature2-4
+    }
 
 }
