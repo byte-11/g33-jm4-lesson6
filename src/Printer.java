@@ -4,4 +4,7 @@ public class Printer {
         //feature2-3
         //feature2-2
     }
+
+    private void newPrint(){}
+
 }
